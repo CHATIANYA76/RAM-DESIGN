@@ -25,8 +25,13 @@ Overall, the code presents a robust, parameterizable synchronous RAM module suit
 
 OUTPUT :
 
+<img width="754" alt="Image" src="https://github.com/user-attachments/assets/726ec24e-10b1-4eb5-9193-9d2bcd2b67e1" />
 
+<img width="784" alt="Image" src="https://github.com/user-attachments/assets/45b7c80d-7aac-47e2-a1d2-057bb7e8da1b" />
 
+<img width="785" alt="Image" src="https://github.com/user-attachments/assets/f47d28af-b68a-4a80-8300-4be1329a0cb0" />
+
+<img width="786" alt="Image" src="https://github.com/user-attachments/assets/28542457-17cf-4217-a4dc-f535d854c61e" />
 
 
 
